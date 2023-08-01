@@ -3,7 +3,6 @@
 </head>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <h1 align="center">Hi 👋, I'm Rıfat</h1>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fturkey-flag-2&psig=AOvVaw3Bsir-0YM3jcTshi8hS7BH&ust=1690973111883000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC5t8Gju4ADFQAAAAAdAAAAABAK
   
   <h3 align="center">A passionate FullStack Developer from Turkey <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" class="turkish-flag" alt="Turkish Flag" style=" width: 40px; height: 28px;">
 </h3>
